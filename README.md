@@ -1,6 +1,6 @@
 # guessatron
 parts
-https://www.pcbway.com/project/gifts_detail/ESP32_S3_1_69inch_Display_Development_Board_240MHz_Dual_Core_Processor_240_280_35c65d77.html
+https://www.amazon.com/ESP32-S3-Development-Accelerometer-Gyroscope-Blue-too-th/dp/B0D9RZ1HWB?th=1
 
 https://www.amazon.com/CBAZYTM-Stranded-Gauge-Colors-Electrical/dp/B073QHZK55/ref=sr_1_9?crid=2QOQDMAC12DVT&dib=eyJ2IjoiMSJ9.5fLtI8qgbOwEJ9XpjFf-V6Z_Vfro66E5eMcseSYUkvVPzTS5jbD0C3UK63NRVkYC7P4UyfVb4h3qOHEXwIVsvQzGIRbSjsK_O2yiOhOqp5GjUqcSN6XdWUYcE0PDtK2xGuIcNWNsRh2N5KDT2cn6X6G7dSuk-TZo8mhAJMFhGmefSJbXcbAHu-5WX_W4XCYrA8m153-PhaxImeLxPzcqB0IDnSeYsBW6wrxg2ckKd6dSPcmU45Eb8PIxLpnxV9eCcCVYzdBDNoTOliKJ7pQ8d9Ajd8q9ADlrkYU66CkeGsk.Bx_zcTIWpzVtQfJO5qI-fzk1GYVH37f_y3m7FdapHK4&dib_tag=se&keywords=24%2BAWG%2Bstranded&qid=1765239465&s=hi&sprefix=24%2Bawg%2Bstranded%2Ctools%2C79&sr=1-9&th=1
 
@@ -14,4 +14,5 @@ https://www.amazon.com/Ferwooh-Protoboard-Breadboards-Breadboard-Electronic/dp/B
 
 
 
-extra project https://www.pcbway.com/project/gifts_detail/ESP32_S3_1_47inch_Display_Development_Board_172_320_262K_Color_Up_to_240MHz_F_9074ffc5.html
+extra project
+https://www.amazon.com/Waveshare-Development-Dual-core-Processor-Frequency/dp/B0DFTCC1FT
